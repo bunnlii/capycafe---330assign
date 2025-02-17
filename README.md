@@ -3,3 +3,5 @@
 1. Home takes you to index.html
 2. About Us takes you to about.html
 3. Featured Will takes you to William's special biography
+>>
+File can be seen in root. 
