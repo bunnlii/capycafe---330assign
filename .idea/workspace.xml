@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54a0f379-9fbf-43e8-8b1c-504c1b7ad4f5" name="Changes" comment="" />
+    <list default="true" id="54a0f379-9fbf-43e8-8b1c-504c1b7ad4f5" name="Changes" comment="project capybara gallery finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/bunnlii/capycafe---330assign.git",
+    "accountId": "367be736-df80-49d1-8081-f1f8851bb5d9"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -47,6 +56,19 @@
       <option name="presentableId" value="Default" />
       <updated>1739746858666</updated>
     </task>
+    <task id="LOCAL-00001" summary="project capybara gallery finished">
+      <option name="closed" value="true" />
+      <created>1739755224456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739755224456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project capybara gallery finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="project capybara gallery finished" />
   </component>
 </project>
